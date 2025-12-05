@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Mata</h1>
 <h3 align="center">A passionate Full Stack developer from Venezuela</h3>
 
-- 🔭 I’m currently working on Ecommerce
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on new projects
-
 ---
 
 # Professional profile and work experience
