@@ -7,7 +7,7 @@
 
 I have 14 years dedicated to the development of web applications, for the public sector and for private companies in different countries in person, remotely and hybridly, of which I have applied different technologies, including:
 
-## :mortar_board: Training and academic studies
+### :mortar_board: Training and academic studies
 
     Systems Engineer
     Java certification endorsed by IBM
@@ -37,19 +37,19 @@ I have 14 years dedicated to the development of web applications, for the public
     Country: Paraguay - Spain - Colombia - Brazil - Portugal - Malta - Belarus - Russia - Ukraine - Mexico
     Mode: Remote
 
-## :gift: E-commerce:
+### :gift: E-commerce:
 
     Technology and tools: PHP, Postgres, Laravel, Docker, Vue, Element-plus, Vuetify, Postman, MySql, MariaDB, Nodejs, Nestjs
     Featured systems: Virtual stores, e-commerce
     Country: Peru - Argentina
     Mode: Remote
 
-## :credit_card: Payment gateway integration
+### :credit_card: Payment gateway integration
 
-## Other projects carried out:
+### Other projects carried out:
 https://labsvets.com
 
-- I am currently developing a system to centralize webhooks from different platforms and then send them customized ones to different platforms that the end user likes.
+`I am currently developing a system to centralize webhooks from different platforms and then send them customized ones to different platforms that the end user likes.`
 
 ---
 
