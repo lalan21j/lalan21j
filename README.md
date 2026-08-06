@@ -47,7 +47,6 @@ I have 14 years dedicated to the development of web applications, for the public
 ### :credit_card: Payment gateway integration
 
 ### Other projects carried out:
-https://labsvets.com
 
 https://inversiones-cleilu.com 
 
