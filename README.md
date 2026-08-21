@@ -1,58 +1,161 @@
-<h1 align="center">Hi 👋, I'm Luis Mata</h1>
-<h3 align="center">A passionate Full Stack developer from Venezuela</h3>
+<!--
+  Perfil profesional para GitHub
+  Cómo usarlo:
+  1. Crea un repositorio con el mismo nombre de tu usuario: lalan21j/lalan21j
+  2. Renombra este archivo a README.md y súbelo al repo
+  3. El perfil se mostrará automáticamente en https://github.com/lalan21j
+-->
+
+<div align="center">
+
+# 👋 Hola, soy Luis A. Mata G.
+
+### Full Stack Developer | Ingeniero de Sistemas
+
+[![GitHub](https://img.shields.io/badge/GitHub-lalan21j-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lalan21j)
+[![Email](https://img.shields.io/badge/Email-mataluis.matag7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mataluis.matag7@gmail.com)
+[![Location](https://img.shields.io/badge/Ubicación-Caracas,_Venezuela-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Caracas)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=15+%C3%B1os+de+experiencia;Full+Stack+Developer;PHP+%7C+Laravel+%7C+Node.js+%7C+Vue.js;APIs+%7C+E-commerce+%7C+Integraciones)
+
+</div>
 
 ---
 
-# Professional profile and work experience
+## 🧑‍💻 Sobre mí
 
-I have 14 years dedicated to the development of web applications, for the public sector and for private companies in different countries in person, remotely and hybridly, of which I have applied different technologies, including:
+Ingeniero de Sistemas y **Full Stack Developer** con **15 años de experiencia** en desarrollo de software, mantenimiento de sistemas empresariales y liderazgo de equipos.
 
-### :mortar_board: Training and academic studies
-
-    Systems Engineer
-    Java certification endorsed by IBM
-    Software Developers Program (IBM Advanced Career Education)
-    Oracle Certification (not completed)
-
-### :cop: Police system and security:
-
-    Technology and tools: PHP, Postgres, JQuery, CodeIgniter, Nodejs
-    Featured system: System for detainee control, payroll, general inventory
-    Additional: Sigefirrhh, various administrative systems
-    Country: Venezuela
-    Modality: In-person
-
-### :moneybag: Banking and Finance:
-
-    Technology and tools: Java, Oracle, Spring, JavaScript, Nuxtjs, Vue, Vuetify, Element-plus, NodeJs, Postman
-    Featured systems: Foreign currency request system, Trust request system, credit portfolio
-    Country: Venezuela
-    Modality: Hybrid
-
-### :spades: Casino and Games of Chance:
-
-    Technology and tools: PHP, Postgres, Laravel, Docker, Vue, NuxtJs, Element-plus, Vuetify, Postman, Nodejs, Nestjs
-    Featured systems: Integration of games from suppliers to the main platform (APIs)
-    Additional: Sports betting system, Betting system for horse, greyhound, and cart races, Betting system for virtual games
-    Country: Paraguay - Spain - Colombia - Brazil - Portugal - Malta - Belarus - Russia - Ukraine - Mexico
-    Mode: Remote
-
-### :gift: E-commerce:
-
-    Technology and tools: PHP, Postgres, Laravel, Docker, Vue, Element-plus, Vuetify, Postman, MySql, MariaDB, Nodejs, Nestjs
-    Featured systems: Virtual stores, e-commerce
-    Country: Peru - Argentina
-    Mode: Remote
-
-### :credit_card: Payment gateway integration
-
-### Other projects carried out:
-
-https://inversiones-cleilu.com 
-
-`I am currently developing a system to centralize webhooks from different platforms and then send them customized ones to different platforms that the end user likes.`
+- 🔭 Especializado en **backend y frontend** (PHP, Laravel, Node.js, Vue.js, React, Angular)
+- 🌍 Experiencia freelance con empresas de **Perú, Chile, España, México, Argentina, Paraguay y Malta**
+- 🧩 Integración de **APIs REST**, pasarelas de pago y plataformas de terceros
+- 🚀 Enfocado en **Clean Code**, **SOLID**, seguridad (**OWASP**) y entrega a tiempo
+- 🌱 Siempre abierto a aprender nuevas tecnologías
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## 🛠️ Stack tecnológico
+
+### Lenguajes
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Bases de datos
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### DevOps y herramientas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+### Pagos e integraciones
+
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+`Mercantil` · `TotalPago` · `Pay4Fun` · Integración de APIs de juegos de casino
+
+---
+
+## 💼 Experiencia destacada
+
+| Periodo | Rol | Empresa | Enfoque |
+|--------:|-----|---------|---------|
+| 2022 – 2026 | Full Stack Developer | **Don Gestión** (Argentina · Remoto) | ERP, e-commerce, caja rápida (PHP, Laravel, Vue.js) |
+| 2020 – 2022 | Programador | **Bet Connections** (Paraguay · Remoto) | APIs de casino, pasarelas de pago, Node.js / PHP |
+| 2017 – 2020 | Full Stack Developer | **KS2** (Venezuela · Híbrido) | Sistemas institucionales, liderazgo de equipo |
+| 2015 – 2017 | Full Stack Developer | **CENCOEX** | Portales de comercio exterior (Java, Spring Boot, Oracle) |
+| 2013 – 2015 | Full Stack Developer | **CPNB** | Sistemas administrativos y carga masiva de datos |
+| 2012 – 2013 | Programador | **IPOSTEL** | Encaminamiento postal y mapas de rutas |
+| 2011 – 2012 | Programador (Pasantías) | **MPPCTII** | Desarrollo de sistemas |
+
+---
+
+## 🎓 Educación
+
+- 🎓 **Ingeniero de Sistemas** — UNEFA (2005 – 2011)
+- 💻 **Programa Desarrolladores de Software (IBM)** — UNEFA (2007 – 2009)
+- 🌐 **Programa Actívate (Google)** — Desarrollo Web, Cloud Computing, Analítica Web (2008)
+- 🚀 **Programa UniMOOC / Emprendimiento YUZZ** — Santander (2009)
+- 📦 **Git** — EDXI Consultores, C.A. (2010)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalan21j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalan21j&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalan21j&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Contacto
+
+<div align="center">
+
+📬 **¿Tienes un proyecto o una oportunidad?** Escríbeme.
+
+[![Gmail](https://img.shields.io/badge/Gmail-mataluis.matag7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mataluis.matag7@gmail.com)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-luismata17@protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:luismata17@protonmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+58_412_548_3888-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584125483888)
+[![GitHub](https://img.shields.io/badge/GitHub-lalan21j-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lalan21j)
+
+<br>
+
+**Español** (nativo) · **Inglés** (básico)
+
+⭐ *Disponible para proyectos freelance remotos*
+
+</div>
