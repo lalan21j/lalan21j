@@ -131,11 +131,23 @@ Ingeniero de Sistemas y **Full Stack Developer** con **15 años de experiencia**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalan21j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/lalan21j">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=lalan21j&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats de Luis Mata" />
+</a>
+&nbsp;
+<a href="https://github.com/lalan21j">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lalan21j&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Lenguajes más usados" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalan21j&layout=compact&theme=tokyonight&hide_border=true)
+<br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalan21j&theme=tokyonight&hide_border=true)
+<a href="https://github.com/lalan21j">
+  <img src="https://streak-stats.demolab.com/?user=lalan21j&theme=tokyonight&hide_border=true&locale=es&cache_seconds=86400" alt="Racha de contribuciones" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lalan21j&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" width="100%" />
 
 </div>
 
